@@ -2,10 +2,10 @@ import java.util.ArrayList;
 public class StepTracker
 {
  /* to be implemented here */
- private ArrayList <int> a;
+ private ArrayList <Integer> a;
  private int b, c, d;
  public StepTracker(int mSteps){
-  a = new ArrayList<Double>();
+  a = new ArrayList<DInteger>();
   b = 0;
   c = mSteps;
   d = 0;
