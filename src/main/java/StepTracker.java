@@ -5,7 +5,7 @@ public class StepTracker
  private ArrayList <Integer> a;
  private int b, c, d;
  public StepTracker(int mSteps){
-  a = new ArrayList<DInteger>();
+  a = new ArrayList<Integer>();
   b = 0;
   c = mSteps;
   d = 0;
